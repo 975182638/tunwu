@@ -1,3 +1,4 @@
 found a answer in your life
 shadow
 dev1 add
+stash
